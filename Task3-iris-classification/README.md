@@ -7,5 +7,4 @@ Machine Learning model to classify Iris flowers into Setosa, Versicolor, and Vir
 - **Features**: Sepal Length, Sepal Width, Petal Length, Petal Width
 - **Target**: 3 species (setosa, versicolor, virginica)
 
-## 🚀 Quick Start
 
